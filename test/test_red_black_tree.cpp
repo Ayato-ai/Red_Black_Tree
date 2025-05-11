@@ -1,4 +1,4 @@
-#include "Red_Black_Tree.h"
+#include "red_black_tree.h"
 #include <gtest.h>
 
 class red_black_tree_test : public ::testing::Test {
